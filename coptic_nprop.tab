@@ -7,33 +7,33 @@
 # If a name regularly appears with an article, you can leave it in (with space), e.g. the persona ⲡ ⲥⲁⲧⲁⲛⲁⲥ
 # Example classification:
 # ⲡ ⲥⲁⲧⲁⲛⲁⲥ	persona	M
-ϣⲉⲛⲟⲩⲧⲉ
-ϣⲓⲏⲧ
-ϥⲛⲏⲟⲩ
-ϩⲁⲙⲱⲥ
-ϩⲉⲛϣⲗⲏⲗ
-ϩⲉⲛϩⲓⲥⲁⲅⲅⲉⲗⲟⲥ
-ϩⲉⲛⲥⲫⲁⲣⲓⲥⲥⲁⲓⲟⲥ
-ϩⲉⲣⲙⲏⲥ
-ϩⲉⲣⲙⲟⲅⲉⲛⲏⲥ
-ϩⲏⲏⲧⲉ
-ϩⲏⲗⲉⲓⲁⲥ
-ϩⲏⲗⲓⲁⲥ
-ϩⲏⲣⲱⲇⲏⲥ
-ϩⲏⲣⲱⲇⲓⲁⲥ
-ϩⲏⲧϥ
-ϩⲏⲧⲟⲩ
-ϩⲏⲧⲥ
-ϩⲓⲁⲛⲛⲁⲥ
-ϩⲓⲉⲣⲟⲥⲟⲗⲩⲙⲁ
-ϩⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ
-ϩⲣⲁⲁⲃ
-ϩⲣⲁⲭⲏⲗ
-ϩⲣⲉⲃⲉⲕⲕⲁ
-ϩⲣⲟⲃⲟⲁⲙ
-ϩⲣⲟⲩⲫⲟⲥ
-ϩⲣⲱⲙⲏ
-ϩⲩⲙⲉⲛⲁⲓⲟⲥ
+ϣⲉⲛⲟⲩⲧⲉ	persona	M
+ϣⲓⲏⲧ	place	?
+ϥⲛⲏⲟⲩ	non-name
+ϩⲁⲙⲱⲥ	persona	M
+ϩⲉⲛϣⲗⲏⲗ	non-name
+ϩⲉⲛϩⲓⲥⲁⲅⲅⲉⲗⲟⲥ	non-name
+ϩⲉⲛⲥⲫⲁⲣⲓⲥⲥⲁⲓⲟⲥ	non-name	?	
+ϩⲉⲣⲙⲏⲥ	place	M
+ϩⲉⲣⲙⲟⲅⲉⲛⲏⲥ	persona	M
+ϩⲏⲏⲧⲉ	non-name
+ϩⲏⲗⲉⲓⲁⲥ	persona	M
+ϩⲏⲗⲓⲁⲥ	persona	M
+ϩⲏⲣⲱⲇⲏⲥ	persona	M
+ϩⲏⲣⲱⲇⲓⲁⲥ	persona	M
+ϩⲏⲧϥ	non-name
+ϩⲏⲧⲟⲩ	non-name
+ϩⲏⲧⲥ	non-name
+ⲁⲛⲛⲁⲥ	persona	M
+ϩⲓⲉⲣⲟⲥⲟⲗⲩⲙⲁ	place	F
+ϩⲓⲉⲣⲟⲩⲥⲁⲗⲏⲙ	place	F
+ϩⲣⲁⲁⲃ	persona	F
+ϩⲣⲁⲭⲏⲗ	persona	F
+ϩⲣⲉⲃⲉⲕⲕⲁ	persona	F
+ϩⲣⲟⲃⲟⲁⲙ	persona	M
+ϩⲣⲟⲩⲫⲟⲥ	persona	M
+ϩⲣⲱⲙⲏ	place	F
+ϩⲩⲙⲉⲛⲁⲓⲟⲥ	persona	M	
 ϩⲩⲡⲉⲣⲉⲭⲓⲟⲥ
 ϩⲱⲧⲧⲏⲩⲧⲛ
 ⲁϥϯⲡⲉϥⲟⲩⲟⲓ
