@@ -8,7 +8,7 @@
 # Example classification:
 # ⲡ ⲥⲁⲧⲁⲛⲁⲥ	persona	M
 ϣⲉⲛⲟⲩⲧⲉ	persona	M
-ϣⲓⲏⲧ	place	?
+ϣⲓⲏⲧ	place	F
 ϥⲛⲏⲟⲩ	non-name
 ϩⲁⲙⲱⲥ	persona	M
 ϩⲉⲛϣⲗⲏⲗ	non-name
@@ -34,33 +34,33 @@
 ϩⲣⲟⲩⲫⲟⲥ	persona	M
 ϩⲣⲱⲙⲏ	place	F
 ϩⲩⲙⲉⲛⲁⲓⲟⲥ	persona	M	
-ϩⲩⲡⲉⲣⲉⲭⲓⲟⲥ
-ϩⲱⲧⲧⲏⲩⲧⲛ
-ⲁϥϯⲡⲉϥⲟⲩⲟⲓ
-ⲁϥⲁⲣⲭⲓ
-ⲁϥⲕⲁⲃⲁⲣⲁⲃⲃⲁⲥ
-ⲁϥⲛϣⲟⲧ
-ⲁϥⲥⲉⲡⲥ
-ⲁϥⲥⲙⲛⲧⲥ
-ⲁϩⲉⲛⲕⲉⲧⲉⲗⲱⲛⲏⲥ
-ⲁϩⲏⲗⲉⲓⲁⲥ
-ⲁϩⲏⲣⲱⲇⲏⲥ
-ⲁϫⲓⲥ
-ⲁⲁⲃⲉⲗ
-ⲁⲁⲃⲣⲁϩⲁⲙ
-ⲁⲁⲅⲣⲓⲡⲡⲁⲥ
-ⲁⲁⲗⲉⲝⲁⲛⲇⲣⲟⲥ
-ⲁⲁⲣⲱⲛ
-ⲁⲃⲉⲗ
-ⲁⲃⲓⲁⲑⲁⲣ
-ⲁⲃⲓⲁⲥ
-ⲁⲃⲓⲁ
-ⲁⲃⲓⲟⲩⲇ
-ⲁⲃⲣⲁϩⲁⲙ
-ⲁⲅⲟⲩⲥⲧⲟⲥ
-ⲁⲅⲣⲓⲡⲡⲁⲥ
-ⲁⲇⲁⲙ
-ⲁⲇⲏⲙⲁⲥ
+ϩⲩⲡⲉⲣⲉⲭⲓⲟⲥ	persona	M
+ϩⲱⲧⲧⲏⲩⲧⲛ	non-name
+ⲁϥϯⲡⲉϥⲟⲩⲟⲓ	non-name
+ⲁϥⲁⲣⲭⲓ	non-name
+ⲃⲁⲣⲁⲃⲃⲁⲥ	persona	M
+ⲁϥⲛϣⲟⲧ	non-name
+ⲁϥⲥⲉⲡⲥ	non-name
+ⲁϥⲥⲙⲛⲧⲥ	non-name
+ⲁϩⲉⲛⲕⲉⲧⲉⲗⲱⲛⲏⲥ	non-name
+ϩⲏⲗⲉⲓⲁⲥ	persona	M
+ϩⲏⲣⲱⲇⲏⲥ	persona	M
+ⲁϫⲓⲥ	non-name
+ⲁⲃⲉⲗ	persona	M
+ⲁⲃⲣⲁϩⲁⲙ persona M
+ⲁⲅⲣⲓⲡⲡⲁⲥ	persona	M
+ⲁⲗⲉⲝⲁⲛⲇⲣⲟⲥ	persona	M
+ⲁⲁⲣⲱⲛ	persona	M
+ⲁⲃⲉⲗ	persona	M
+ⲁⲃⲓⲁⲑⲁⲣ	persona	M
+ⲁⲃⲓⲁⲥ		persona	M
+ⲁⲃⲓⲁ	persona	M
+ⲁⲃⲓⲟⲩⲇ	persona	M
+ⲁⲃⲣⲁϩⲁⲙ	persona	M
+ⲁⲅⲟⲩⲥⲧⲟⲥ	persona	M
+ⲁⲅⲣⲓⲡⲡⲁⲥ	persona	M
+ⲁⲇⲁⲙ	persona	M
+ⲇⲏⲙⲁⲥ	persona	M
 ⲁⲉⲣⲁⲥⲧⲟⲥ
 ⲁⲍⲁⲕⲭⲁⲓⲟⲥ
 ⲁⲍⲁⲭⲁⲣⲓⲁⲥ
