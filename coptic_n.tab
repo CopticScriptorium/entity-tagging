@@ -9,95 +9,95 @@
 # ϣⲉⲉⲣⲉ	persona	F
 # ⲥⲏϥⲉ	object	F
 # ⲥⲩⲛⲁⲅⲱⲅⲏ	organization	F
-ϣϭⲟⲙ
-ϣⲁϫⲉ
-ϣⲁ
-ϣⲃⲃⲓⲱ
-ϣⲃⲉⲉⲣ
-ϣⲉⲉⲣⲉ
-ϣⲉⲗⲉⲉⲧ
-ϣⲉ
-ϣⲏⲙ
-ϣⲏⲣⲉ
-ϣⲓⲡⲉ
-ϣⲓ
-ϣⲕⲁⲕ
-ϣⲙⲙⲟ
-ϣⲛⲏⲩ
-ϣⲟϫⲛⲉ
-ϣⲟⲙⲧⲉ
-ϣⲟⲛⲧⲉ
-ϣⲟⲣⲡ
-ϣⲟⲩϣⲟⲩ
-ϣⲟⲩϣⲧ
-ϣⲡⲏⲣⲉ
-ϣⲥⲛⲉ
-ϣⲧⲉⲕⲟ
-ϣⲧⲏⲛ
-ϣⲱⲙⲉ
-ϣⲱⲛⲃ
-ϣⲱⲥ
-ϣⲱⲱⲡⲉ
-ϣⲱⲱⲧ
-ϥⲱ
-ϩⲁϩ
-ϩⲁⲏ
-ϩⲁⲓ
-ϩⲁⲗⲁⲥⲥⲁ
-ϩⲁⲗⲁⲧⲉ
-ϩⲁⲗⲩⲥⲓⲥ
-ϩⲁⲗ
-ϩⲁⲡ
-ϩⲁⲧ
-ϩⲃⲏⲩⲉ
-ϩⲃⲟⲩⲣ
-ϩⲉⲑⲛⲓⲕⲟⲥ
-ϩⲉⲑⲛⲟⲥ
-ϩⲉⲗⲗⲏⲛ
-ϩⲉⲗⲡⲓⲥ
-ϩⲉⲛⲉⲉⲧⲏ
-ϩⲉ
-ϩⲏⲃⲥ
-ϩⲏⲅⲉⲙⲱⲛ
-ϩⲏⲏⲧⲉ
-ϩⲏⲕⲉ
-ϩⲏⲣⲱⲇⲓⲁⲛⲟⲥ
-ϩⲏⲧⲛ
-ϩⲏⲧ
-ϩⲏ
-ϩⲓϩⲏ
-ϩⲓⲏ
-ϩⲓⲕⲱⲛ
-ϩⲓⲙⲉ
-ϩⲓⲟⲙⲉ
-ϩⲓⲥⲉ
-ϩⲗⲗⲟ
-ϩⲗⲗⲱ
-ϩⲙϩⲁⲗ
-ϩⲙⲟⲧ
-ϩⲙⲟⲩ
-ϩⲛⲁⲁⲩ
-ϩⲛⲁⲩ
-ϩⲛⲁ
-ϩⲛⲟ
-ϩⲟϥ
-ϩⲟⲉⲓⲛⲉ
-ϩⲟⲉⲓⲧⲉ
-ϩⲟⲓⲛⲉ
-ϩⲟⲓⲧⲉ
-ϩⲟⲙⲛⲧ
-ϩⲟⲟⲩⲧ
-ϩⲟⲟⲩ
-ϩⲟⲥⲟⲛ
-ϩⲟⲧⲉ
-ϩⲟⲩⲉ
-ϩⲟⲩⲛ
-ϩⲟⲩⲟ
-ϩⲟ
-ϩⲣϣⲓⲣⲉ
-ϩⲣⲁⲃⲃⲉⲓ
-ϩⲣⲉ
-ϩⲣⲟⲟⲩ
+ϣϭⲟⲙ	abstract	F
+ϣⲁϫⲉ	abstract	M
+ϣⲁ	event	M
+ϣⲃⲃⲓⲱ	abstract	M
+ϣⲃⲉⲉⲣ	persona	PL
+ϣⲉⲉⲣⲉ	persona	F
+ϣⲉⲗⲉⲉⲧ	persona	F
+ϣⲉ	object	M
+ϣⲏⲙ	abstract	M/F
+ϣⲏⲣⲉ	persona	M
+ϣⲓⲡⲉ	persona	M
+ϣⲓ	abstract	M
+ϣⲕⲁⲕ	abstract	M
+ϣⲙⲙⲟ	persona	M
+ϣⲛⲏⲩ	object	PL
+ϣⲟϫⲛⲉ	abstract	M
+ϣⲟⲙⲧⲉ	abstract	F
+ϣⲟⲛⲧⲉ	object	F
+ϣⲟⲣⲡ	abstract	M
+ϣⲟⲩϣⲟⲩ	abstract	M
+ϣⲟⲩϣⲧ	object	M
+ϣⲡⲏⲣⲉ	object	F
+ϣⲥⲛⲉ	time	M
+ϣⲧⲉⲕⲟ	place	M
+ϣⲧⲏⲛ	object	F
+ϣⲱⲙⲉ	place	F
+ϣⲱⲛⲃ	abstract	M
+ϣⲱⲥ	persona	M
+ϣⲱⲱⲡⲉ	abstract	M
+ϣⲱⲱⲧ	abstract	M
+ϥⲱ	object	M
+ϩⲁϩ	abstract	M/F
+ϩⲁⲏ	abstract	F
+ϩⲁⲓ	persona	M
+ϩⲁⲗⲁⲥⲥⲁ	place	F
+ϩⲁⲗⲁⲧⲉ	animal	PL
+ϩⲁⲗⲩⲥⲓⲥ	object	F
+ϩⲁⲗ	persona	M/F
+ϩⲁⲡ	abstract	M
+ϩⲁⲧ	object	M
+ϩⲃⲏⲩⲉ	object	PL
+ϩⲃⲟⲩⲣ	object	F
+ϩⲉⲑⲛⲓⲕⲟⲥ	persona	M	
+ϩⲉⲑⲛⲟⲥ	persona	PL
+ϩⲉⲗⲗⲏⲛ	persona	PL
+ϩⲉⲗⲡⲓⲥ	abstract	F
+ϩⲉⲛⲉⲉⲧⲏ	place	F
+ϩⲉ	abstract	F
+ϩⲏⲃⲥ	object	M
+ϩⲏⲅⲉⲙⲱⲛ	persona	M
+ϩⲏⲏⲧⲉ	error
+ϩⲏⲕⲉ	object	M
+ϩⲏⲣⲱⲇⲓⲁⲛⲟⲥ	persona	M
+ϩⲏⲧⲛ	error
+ϩⲏⲧ	abstract	M
+ϩⲏ	abstract	F
+ϩⲓϩⲏ	error
+ϩⲓⲏ	place	F
+ϩⲓⲕⲱⲛ	abstract	F
+ϩⲓⲙⲉ	persona	F
+ϩⲓⲟⲙⲉ	persona	PL
+ϩⲓⲥⲉ	abstract	M
+ϩⲗⲗⲟ	persona	M
+ϩⲗⲗⲱ	persona	F
+ϩⲙϩⲁⲗ	persona	M/F
+ϩⲙⲟⲧ	abstract	M
+ϩⲙⲟⲩ	object	M
+ϩⲛⲁⲁⲩ	object	M
+ϩⲛⲁⲩ	error	
+ϩⲛⲁ	error
+ϩⲛⲟ	object	M
+ϩⲟϥ	animal	M
+ϩⲟⲉⲓⲛⲉ	abstract M/F
+ϩⲟⲉⲓⲧⲉ	object	M/F
+ϩⲟⲓⲛⲉ	abstract	M/F
+ϩⲟⲓⲧⲉ	object M/F
+ϩⲟⲙⲛⲧ	object	M
+ϩⲟⲟⲩⲧ	persona	M
+ϩⲟⲟⲩ	time	M
+ϩⲟⲥⲟⲛ	time	M
+ϩⲟⲧⲉ	abstract	F
+ϩⲟⲩⲉ	abstract	M
+ϩⲟⲩⲛ	abstract	M
+ϩⲟⲩⲟ	abstract	M
+ϩⲟ	object	M
+ϩⲣϣⲓⲣⲉ	persona	M
+ϩⲣⲁⲃⲃⲉⲓ	persona	M
+ϩⲣⲉ	object	F
+ϩⲣⲟⲟⲩ	abstract	F
 ϩⲣⲱ
 ϩⲧⲏ
 ϩⲧⲟⲟⲩⲉ
