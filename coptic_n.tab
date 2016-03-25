@@ -17,7 +17,7 @@
 ϣⲉⲉⲣⲉ	persona	F
 ϣⲉⲗⲉⲉⲧ	persona	F
 ϣⲉ	object	M
-ϣⲏⲙ	abstract	M/F
+ϣⲏⲙ	abstract	M
 ϣⲏⲣⲉ	persona	M
 ϣⲓⲡⲉ	persona	M
 ϣⲓ	abstract	M
@@ -81,10 +81,10 @@
 ϩⲛⲁ	error
 ϩⲛⲟ	object	M
 ϩⲟϥ	animal	M
-ϩⲟⲉⲓⲛⲉ	abstract M/F
+ϩⲟⲉⲓⲛⲉ	abstract PL
 ϩⲟⲉⲓⲧⲉ	object	M/F
-ϩⲟⲓⲛⲉ	abstract	M/F
-ϩⲟⲓⲧⲉ	object M/F
+ϩⲟⲓⲛⲉ	abstract	PL	# same as ϩⲟⲉⲓⲛⲉ
+ϩⲟⲓⲧⲉ	object M/F	# same as ϩⲟⲉⲓⲧⲉ
 ϩⲟⲙⲛⲧ	object	M
 ϩⲟⲟⲩⲧ	persona	M
 ϩⲟⲟⲩ	time	M
@@ -98,206 +98,206 @@
 ϩⲣⲁⲃⲃⲉⲓ	persona	M
 ϩⲣⲉ	object	F
 ϩⲣⲟⲟⲩ	abstract	F
-ϩⲣⲱ
-ϩⲧⲏ
-ϩⲧⲟⲟⲩⲉ
-ϩⲧⲟⲟⲩ
-ϩⲧⲟⲣ
-ϩⲩⲡⲁⲣⲭⲟⲛⲧⲁ
-ϩⲩⲡⲏⲣⲉⲧⲏⲥ
-ϩⲱⲃ
-ϩⲱⲡ
-ϩⲱⲥ
-ϩⲱⲧ
-ϫⲁϫⲉ
-ϫⲁⲓⲉ
-ϫⲏϭⲉ
-ϫⲓϫⲉⲉⲩⲉ
-ϫⲓⲛϫⲏ
-ϫⲓⲟⲩⲉ
-ϫⲛ
-ϫⲟⲉⲓⲥ
-ϫⲟⲉⲓⲧ
-ϫⲟⲉⲓ
-ϫⲡ
-ϫⲣⲟⲡ
-ϫⲱϩⲙ
-ϫⲱⲱⲙⲉ
-ϫⲱ
-ϭⲁⲙⲟⲩⲗ
-ϭⲉⲡⲏ
-ϭⲉⲣⲱⲃ
-ϭⲓϫ
-ϭⲓⲛⲟⲩⲟⲟⲙ
-ϭⲗⲟϭ
-ϭⲙⲏⲟⲩ
-ϭⲙⲏⲩ
-ϭⲟⲗ
-ϭⲟⲙ
-ϭⲟⲛⲥ
-ϭⲟⲣϭⲥ
-ϭⲟⲧ
-ϭⲣⲟϭ
-ϭⲱⲃⲉ
-ϭⲱⲃ
-ϭⲱⲛⲧ
-ϯϩⲏⲩ
-ⲁϣⲁϩⲟⲙ
-ⲁϣⲁⲓ
-ⲁϣⲏ
-ⲁϣⲱ
-ⲁϣ
-ⲁϭⲟⲗⲧⲉ
-ⲁϭⲣⲏⲛ
-ⲁⲅⲁⲑⲟⲛ
-ⲁⲅⲁⲑⲟⲥ
-ⲁⲅⲁⲡⲏ
-ⲁⲅⲅⲉⲗⲟⲥ
-ⲁⲅⲉⲗⲏ
-ⲁⲅⲟⲣⲁ
-ⲁⲓⲧⲉⲓ
-ⲁⲓⲱⲛ
-ⲁⲕⲁⲑⲁⲣⲥⲓⲁ
-ⲁⲕⲁⲑⲁⲣⲧⲟⲛ
-ⲁⲗⲁⲃⲁⲥⲧⲣⲟⲛ
-ⲁⲗⲉⲕⲧⲱⲣ
-ⲁⲗⲫⲁⲓⲟⲥ
-ⲁⲗ
-ⲁⲛϫⲱϫ
-ⲁⲛⲁϣ
-ⲁⲛⲁϥ
-ⲁⲛⲁⲅⲕⲁⲓⲟⲛ
-ⲁⲛⲁⲅⲕⲏ
-ⲁⲛⲁⲥⲧⲁⲥⲓⲥ
-ⲁⲛⲟⲙⲓⲁ
-ⲁⲛⲟⲙⲟⲥ
-ⲁⲡⲁ
-ⲁⲡⲉ
-ⲁⲡⲓⲥⲧⲟⲥ
-ⲁⲡⲟⲥⲧⲁⲧⲏⲥ
-ⲁⲡⲟⲥⲧⲟⲗⲟⲥ
-ⲁⲡⲟⲧ
-ⲁⲣⲓⲕⲉ
-ⲁⲣⲭⲁⲓⲟⲥ
-ⲁⲣⲭⲏⲉⲡⲓⲥⲕⲟⲡⲟⲥ
-ⲁⲣⲭⲏ
-ⲁⲣⲭⲓⲉⲣⲉⲩⲥ
-ⲁⲣⲭⲓⲥⲩⲛⲁⲅⲱⲅⲟⲥ
-ⲁⲣⲭⲱⲛ
-ⲁⲥⲟⲩ
-ⲁⲥⲡⲉ
-ⲁⲥ
-ⲁⲧϩⲏⲧ
-ⲁⲧϩⲟⲧⲉ
-ⲁⲧⲑⲁⲃ
-ⲁⲧⲛⲁϩⲧⲉ
-ⲁⲧⲥⲃⲱ
-ⲁⲧⲥⲱⲧⲙ
-ⲁⲧ
-ⲁⲩⲏⲧ
-ⲁⲩⲗⲏ
-ⲃⲁⲗ
-ⲃⲁⲡⲧⲓⲥⲙⲁ
-ⲃⲁⲡⲧⲓⲥⲧⲏⲥ
-ⲃⲁⲣⲃⲁⲣⲟⲥ
-ⲃⲉⲕⲉ
-ⲃⲓⲟⲥ
-ⲃⲓⲣ
-ⲃⲗⲗⲉ
-ⲃⲟⲏⲑⲟⲥ
-ⲃⲟⲗ
-ⲃⲟⲧⲉ
-ⲃⲣⲣⲉ
-ⲃⲱ
-ⲅⲁⲍⲟⲫⲩⲗⲁⲕⲓⲟⲛ
-ⲅⲁⲙⲟⲥ
-ⲅⲉϩⲉⲛⲛⲁ
-ⲅⲉⲛⲉⲁ
-ⲅⲉⲛⲟⲥ
-ⲅⲛⲱⲙⲏ
-ⲅⲣⲁⲙⲙⲁⲧⲉⲩⲥ
-ⲅⲣⲁⲫⲏ
-ⲇⲁⲓⲙⲱⲛⲓⲟⲛ
-ⲇⲉⲕⲁⲡⲟⲗⲓⲥ
-ⲇⲓⲁⲃⲟⲗⲟⲥ
-ⲇⲓⲁⲑⲏⲕⲏ
-ⲇⲓⲁⲕⲟⲛⲓⲁ
-ⲇⲓⲕⲁⲓⲟⲥⲩⲛⲏ
-ⲇⲓⲕⲁⲓⲟⲥ
-ⲇⲓⲡⲛⲟⲛ
-ⲇⲓⲱⲅⲙⲟⲥ
-ⲉϣⲁⲩ
-ⲉϥ
-ⲉϩⲣⲁⲓ
-ⲉϫⲏⲩ
-ⲉⲓⲁⲧ
-ⲉⲓⲃⲉ
-ⲉⲓⲇⲱⲗⲟⲛ
-ⲉⲓⲟⲧⲉ
-ⲉⲓⲣⲏⲛⲏ
-ⲉⲓⲱⲧ
-ⲉⲕⲕⲗⲏⲥⲓⲁ
-ⲉⲗⲟⲟⲗⲉ
-ⲉⲗⲱⲉⲓ
-ⲉⲛⲉϩ
-ⲉⲛⲉⲣⲅⲏⲙⲁ
-ⲉⲛⲉ
-ⲉⲛⲧⲟⲗⲏ
-ⲉⲝⲟⲩⲥⲓⲁ
-ⲉⲟⲟⲩ
-ⲉⲡⲓⲑⲩⲙⲓⲁ
-ⲉⲡⲓⲥⲧⲏⲙⲏ
-ⲉⲡⲓⲥⲧⲟⲗⲏ
-ⲉⲣⲏⲙⲟⲥ
-ⲉⲣⲏⲩ
-ⲉⲣⲱⲧⲉ
-ⲉⲥⲏⲧ
-ⲉⲥⲑⲏⲧⲏⲣⲓⲟⲛ
-ⲉⲥⲟⲟⲩ
-ⲉⲧⲉⲣⲉ
-ⲉⲩⲁⲅⲅⲉⲗⲓⲟⲛ
-ⲏⲇⲏ
-ⲏⲉⲓ
-ⲏⲓ
-ⲏⲣⲡ
-ⲑⲁⲃ
-ⲑⲁⲗⲁⲥⲥⲁ
-ⲑⲗⲓⲯⲓⲥ
-ⲑⲩⲥⲓⲁⲥⲧⲏⲣⲓⲟⲛ
-ⲑⲩⲥⲓⲁ
-ⲓⲏⲥⲟⲩⲥ
-ⲓⲟⲩⲇⲁⲓⲁ
-ⲓⲟⲩⲇⲁⲓ
-ⲕⲁϣ
-ⲕⲁϩ
-ⲕⲁⲓⲣⲟⲥ
-ⲕⲁⲕⲉ
-ⲕⲁⲣⲡⲟⲥ
-ⲕⲉⲛⲧⲩⲣⲓⲱⲛ
-ⲕⲉⲧ
-ⲕⲉⲩⲁ
-ⲕⲉ
-ⲕⲏⲫⲁ
-ⲕⲗⲁⲇⲟⲥ
-ⲕⲗⲏⲣⲟⲛⲟⲙⲓⲁ
-ⲕⲗⲟⲙ
-ⲕⲗⲟⲟⲗⲉ
-ⲕⲛⲧⲉ
-ⲕⲟⲓⲛⲱⲛⲓⲁ
-ⲕⲟⲓⲛⲱⲛⲟⲥ
-ⲕⲟⲗⲗⲏⲅⲓⲟⲛ
-ⲕⲟⲟⲩⲉ
-ⲕⲟⲥⲙⲟⲥ
-ⲕⲟⲧ
-ⲕⲟⲩⲉⲓ
-ⲕⲟⲩⲓ
-ⲕⲣⲓⲙⲁ
-ⲕⲣⲓⲥⲓⲥ
-ⲕⲣⲟϥ
-ⲕⲣⲟ
-ⲕⲱϩⲧ
-ⲕⲱϩ
-ⲕⲱⲙⲏ
+ϩⲣⲱ	object	F
+ϩⲧⲏ	error
+ϩⲧⲟⲟⲩⲉ	time	F
+ϩⲧⲟⲟⲩ	time	F	# same as ϩⲧⲟⲟⲩⲉ 	
+ϩⲧⲟⲣ	abstract	M
+ϩⲩⲡⲁⲣⲭⲟⲛⲧⲁ	object	PL
+ϩⲩⲡⲏⲣⲉⲧⲏⲥ	persona	M
+ϩⲱⲃ object	M
+ϩⲱⲡ	abstract	M
+ϩⲱⲥ	abstract	M
+ϩⲱⲧ	object	M
+ϫⲁϫⲉ	persona	M
+ϫⲁⲓⲉ	place	M
+ϫⲏϭⲉ	object	M
+ϫⲓϫⲉⲉⲩⲉ	persona	PL
+ϫⲓⲛϫⲏ	abstract	M
+ϫⲓⲟⲩⲉ	abstract	M
+ϫⲛ	error
+ϫⲟⲉⲓⲥ	persona	M
+ϫⲟⲉⲓⲧ	object	M
+ϫⲟⲉⲓ	object	M
+ϫⲡ	time	F
+ϫⲣⲟⲡ	abstract	M
+ϫⲱϩⲙ	abstract	M
+ϫⲱⲱⲙⲉ	object	M
+ϫⲱ	object	M
+ϭⲁⲙⲟⲩⲗ	animal	M/F
+ϭⲉⲡⲏ	abstract	
+ϭⲉⲣⲱⲃ	object	M
+ϭⲓϫ	object	F
+ϭⲓⲛⲟⲩⲟⲟⲙ	abstract	F
+ϭⲗⲟϭ	object	M
+ϭⲙⲏⲟⲩ	persona	PL
+ϭⲙⲏⲩ	persona	PL	# same as ϭⲙⲏⲟⲩ
+ϭⲟⲗ	abstract	M
+ϭⲟⲙ	abstract	F
+ϭⲟⲛⲥ	abstract
+ϭⲟⲣϭⲥ	object	F
+ϭⲟⲧ	abstract	F
+ϭⲣⲟϭ	object	M
+ϭⲱⲃⲉ	object	F
+ϭⲱⲃ	persona	M
+ϭⲱⲛⲧ	abstract	M
+ϯϩⲏⲩ	error
+ⲁϣⲁϩⲟⲙ	abstract	M	
+ⲁϣⲁⲓ	abstract	M
+ⲁϣⲏ	abstract	F
+ⲁϣⲱ	error
+ⲁϣ	error
+ⲁϭⲟⲗⲧⲉ	object	F
+ⲁϭⲣⲏⲛ	persona	F
+ⲁⲅⲁⲑⲟⲛ	abstract	M
+ⲁⲅⲁⲑⲟⲥ	persona	M
+ⲁⲅⲁⲡⲏ	abstract	F
+ⲁⲅⲅⲉⲗⲟⲥ	persona	M
+ⲁⲅⲉⲗⲏ	object	F
+ⲁⲅⲟⲣⲁ	place	F
+ⲁⲓⲧⲉⲓ	abstract	F
+ⲁⲓⲱⲛ	time	M
+ⲁⲕⲁⲑⲁⲣⲥⲓⲁ	abstract	F
+ⲁⲕⲁⲑⲁⲣⲧⲟⲛ	abstract	M
+ⲁⲗⲁⲃⲁⲥⲧⲣⲟⲛ	object	F
+ⲁⲗⲉⲕⲧⲱⲣ	animal	M
+ⲁⲗⲫⲁⲓⲟⲥ	error
+ⲁⲗ	persona	M/F
+ⲁⲛϫⲱϫ	persona	M
+ⲁⲛⲁϣ	abstract	M
+ⲁⲛⲁϥ	error
+ⲁⲛⲁⲅⲕⲁⲓⲟⲛ	abstract	M
+ⲁⲛⲁⲅⲕⲏ	abstract	M
+ⲁⲛⲁⲥⲧⲁⲥⲓⲥ	abstract	F
+ⲁⲛⲟⲙⲓⲁ	abstract	F
+ⲁⲛⲟⲙⲟⲥ	persona	M
+ⲁⲡⲁ	persona	M
+ⲁⲡⲉ	object	F
+ⲁⲡⲓⲥⲧⲟⲥ	persona	M
+ⲁⲡⲟⲥⲧⲁⲧⲏⲥ	persona	M
+ⲁⲡⲟⲥⲧⲟⲗⲟⲥ	persona	M
+ⲁⲡⲟⲧ	object	M
+ⲁⲣⲓⲕⲉ	abstract	M
+ⲁⲣⲭⲁⲓⲟⲥ	persona	M
+ⲁⲣⲭⲏⲉⲡⲓⲥⲕⲟⲡⲟⲥ	persona	M
+ⲁⲣⲭⲏ	abstract F
+ⲁⲣⲭⲓⲉⲣⲉⲩⲥ	persona	M
+ⲁⲣⲭⲓⲥⲩⲛⲁⲅⲱⲅⲟⲥ	persona	M
+ⲁⲣⲭⲱⲛ	persona	M
+ⲁⲥⲟⲩ	abstract	F
+ⲁⲥⲡⲉ	abstract	F
+ⲁⲥ	abstract	M/F
+ⲁⲧϩⲏⲧ	abstract
+ⲁⲧϩⲟⲧⲉ	abstract
+ⲁⲧⲑⲁⲃ	abstract
+ⲁⲧⲛⲁϩⲧⲉ	abstract
+ⲁⲧⲥⲃⲱ	abstract	F
+ⲁⲧⲥⲱⲧⲙ	abstract
+ⲁⲧ	error
+ⲁⲩⲏⲧ	organization	M
+ⲁⲩⲗⲏ	place	F
+ⲃⲁⲗ	object	M
+ⲃⲁⲡⲧⲓⲥⲙⲁ	event	F
+ⲃⲁⲡⲧⲓⲥⲧⲏⲥ	persona	M
+ⲃⲁⲣⲃⲁⲣⲟⲥ	persona	M
+ⲃⲉⲕⲉ	abstract	M
+ⲃⲓⲟⲥ	abstract	M
+ⲃⲓⲣ	object	M
+ⲃⲗⲗⲉ	persona	M
+ⲃⲟⲏⲑⲟⲥ	abstract	M
+ⲃⲟⲗ place	M
+ⲃⲟⲧⲉ	abstract	F
+ⲃⲣⲣⲉ	abstract	M/F
+ⲃⲱ	object	F
+ⲅⲁⲍⲟⲫⲩⲗⲁⲕⲓⲟⲛ	place	M
+ⲅⲁⲙⲟⲥ	abstract	M
+ⲅⲉϩⲉⲛⲛⲁ	place	F
+ⲅⲉⲛⲉⲁ	abstract	F
+ⲅⲉⲛⲟⲥ	abstract	M
+ⲅⲛⲱⲙⲏ	abstract	F
+ⲅⲣⲁⲙⲙⲁⲧⲉⲩⲥ	persona	M
+ⲅⲣⲁⲫⲏ	abstract	F
+ⲇⲁⲓⲙⲱⲛⲓⲟⲛ	persona	M
+ⲇⲉⲕⲁⲡⲟⲗⲓⲥ error
+ⲇⲓⲁⲃⲟⲗⲟⲥ	error
+ⲇⲓⲁⲑⲏⲕⲏ	abstract	F
+ⲇⲓⲁⲕⲟⲛⲓⲁ	abstract	F
+ⲇⲓⲕⲁⲓⲟⲥⲩⲛⲏ	abstract	F
+ⲇⲓⲕⲁⲓⲟⲥ	persona	M
+ⲇⲓⲡⲛⲟⲛ	event	M
+ⲇⲓⲱⲅⲙⲟⲥ	event	M
+ⲉϣⲁⲩ	animal	F
+ⲉϥ	error
+ⲉϩⲣⲁⲓ	error
+ⲉϫⲏⲩ	object	PL
+ⲉⲓⲁⲧ	object
+ⲉⲓⲃⲉ	abstract	M
+ⲉⲓⲇⲱⲗⲟⲛ	abstract	M
+ⲉⲓⲟⲧⲉ	persona	PL
+ⲉⲓⲣⲏⲛⲏ	abstract	F
+ⲉⲓⲱⲧ	persona	M
+ⲉⲕⲕⲗⲏⲥⲓⲁ	organization	F
+ⲉⲗⲟⲟⲗⲉ	object	M
+ⲉⲗⲱⲉⲓ	persona	M
+ⲉⲛⲉϩ	time	M
+ⲉⲛⲉⲣⲅⲏⲙⲁ	abstract	M
+ⲉⲛⲉ	error
+ⲉⲛⲧⲟⲗⲏ	abstract	F
+ⲉⲝⲟⲩⲥⲓⲁ	abstract	F
+ⲉⲟⲟⲩ	abstract	M
+ⲉⲡⲓⲑⲩⲙⲓⲁ	abstract	F
+ⲉⲡⲓⲥⲧⲏⲙⲏ	abstract	F
+ⲉⲡⲓⲥⲧⲟⲗⲏ	object	F
+ⲉⲣⲏⲙⲟⲥ	place	M
+ⲉⲣⲏⲩ	persona	PL
+ⲉⲣⲱⲧⲉ	object	M/F	
+ⲉⲥⲏⲧ	place	M
+ⲉⲥⲑⲏⲧⲏⲣⲓⲟⲛ	place	M	
+ⲉⲥⲟⲟⲩ	animal	M
+ⲉⲧⲉⲣⲉ	error
+ⲉⲩⲁⲅⲅⲉⲗⲓⲟⲛ	abstract	M
+ⲏⲇⲏ	error
+ⲏⲉⲓ	place	M
+ⲏⲓ	place	M	# same as ⲏⲉⲓ
+ⲏⲣⲡ	object	M
+ⲑⲁⲃ	object	M
+ⲑⲁⲗⲁⲥⲥⲁ	place	F
+ⲑⲗⲓⲯⲓⲥ	abstract	F
+ⲑⲩⲥⲓⲁⲥⲧⲏⲣⲓⲟⲛ	place	M
+ⲑⲩⲥⲓⲁ	event	F
+ⲓⲏⲥⲟⲩⲥ	error
+ⲓⲟⲩⲇⲁⲓⲁ	error
+ⲓⲟⲩⲇⲁⲓ	persona	M
+ⲕⲁϣ	object	M
+ⲕⲁϩ	abstract	M
+ⲕⲁⲓⲣⲟⲥ	time	M
+ⲕⲁⲕⲉ	abstract	M
+ⲕⲁⲣⲡⲟⲥ	object	M
+ⲕⲉⲛⲧⲩⲣⲓⲱⲛ	persona	M
+ⲕⲉⲧ	abstract	
+ⲕⲉⲩⲁ	error
+ⲕⲉ	abstract
+ⲕⲏⲫⲁ	error
+ⲕⲗⲁⲇⲟⲥ	object	M
+ⲕⲗⲏⲣⲟⲛⲟⲙⲓⲁ	abstract	F
+ⲕⲗⲟⲙ	object	M
+ⲕⲗⲟⲟⲗⲉ	object	F
+ⲕⲛⲧⲉ	object	M
+ⲕⲟⲓⲛⲱⲛⲓⲁ	abstract	F
+ⲕⲟⲓⲛⲱⲛⲟⲥ	persona	M
+ⲕⲟⲗⲗⲏⲅⲓⲟⲛ	organization	M
+ⲕⲟⲟⲩⲉ	abstract	PL
+ⲕⲟⲥⲙⲟⲥ	abstract	M
+ⲕⲟⲧ	abstract	M
+ⲕⲟⲩⲉⲓ	abstract	
+ⲕⲟⲩⲓ	abstract	# same as ⲕⲟⲩⲉⲓ
+ⲕⲣⲓⲙⲁ	abstract	M
+ⲕⲣⲓⲥⲓⲥ	abstract	F
+ⲕⲣⲟϥ	abstract	M
+ⲕⲣⲟ	place	M
+ⲕⲱϩⲧ	object	M
+ⲕⲱϩ	abstract	M
+ⲕⲱⲙⲏ	place	F
 ⲗⲁⲁⲩ
 ⲗⲁⲕⲙ
 ⲗⲁⲟⲥ
